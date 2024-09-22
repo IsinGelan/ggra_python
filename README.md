@@ -1,6 +1,7 @@
 # GGRA-Python
 
-Package for text generation using GGRA
+Package for text generation using GGRA  
+VSCode Syntax Highlighting Extension Id: `floriangeier.ggra-syntax-highlighting`
 
 ## GGRA?
 
